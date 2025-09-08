@@ -1,2 +1,25 @@
-# Food-Ordering-App-UI
-This project is a Food Ordering App designed with HTML, CSS, and JavaScript. It provides a clean UI where users can browse food items, view prices, search for dishes, and add them to a shopping cart. The layout is responsive and user-friendly.
+# 🍴 Food Ordering App
+
+A simple **Food Ordering App** built using **HTML, CSS, javascript and React.js**.  
+It allows users to browse food items, view prices, search for dishes, and add them to a cart.
+
+---
+
+## 🚀 Features
+- 🔍 **Search Bar** – Quickly find your favorite food
+- 🛒 **Add to Cart** – Select items and add them to the cart
+- 💰 **Price Display** – Each item shows its cost
+- 📱 **Responsive Design** – Works well on desktop and mobile
+
+---
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+---
+
+
+
